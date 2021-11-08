@@ -1,0 +1,98 @@
+body{
+  background-color: #D7E9F7;
+  margin: 0;
+  text-align: center;
+  font-family: "Patrick Hand",cursive;
+}
+h1{
+  color: #4AA96C;
+  font-size: 437.5%;
+  margin: 0
+}
+h2{
+  color: #4AA96C;
+  font-family:"Montserrat",sans-serif;
+  font-size: 2rem;
+}
+h3{
+  color:#99154E;
+}
+
+hr{
+  border:dotted;
+  border-color: #3B0000;
+  border-width: 7px;
+  border-bottom: none;
+}
+.TOP-CONTAINER{
+}
+.MIDDLE-CONTAINER{
+  position: relative;
+  giphy: https://media.giphy.com/media/7xZuXw06eeB76kVmrw/giphy.gif;
+}
+
+.education{
+  position: absolute;
+  left:150px;
+  bottom:850px;
+}
+.education1{
+  position: absolute;
+  right:150px;
+  bottom:850px;
+}
+.BOTTOM-CONTAINER{
+  background-color: #BFD8B8;
+  padding:50px 0 30px;
+}
+.bottomcloud{
+  position: relative;
+  bottom:220px;
+  right:500px;
+}
+.topcloud{
+  position: relative;
+  left:500px;
+}
+.mountain{
+  background-color: #D7E9F7;
+  position: relative;
+  bottom:150px;
+}
+.center{
+    color: #49FF00;
+position: relative;
+left:600px;
+}
+.hr{
+  color: blue;
+  width: 3px;
+}
+.photo{
+  width: 500px;
+  height: 500px;
+  position: relative;
+  bottom:50px;
+}
+.hobbies{
+  color: #E5890A;
+  background-color: #E5890A;
+}
+.contact{
+  background-color: #F6E6CB;
+  color: #480032;
+}
+
+.contact-me{
+  margin-top: 0;
+  background-color: #F6D7A7;
+}
+
+.hobbies1{
+  color:#9D5C0D;
+
+}
+
+.a{
+  margin:10px 20px;
+}
